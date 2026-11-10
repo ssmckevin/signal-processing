@@ -1,5 +1,0 @@
-if(EXISTS "/home/mogus/projects/signal-project/build/signal-tests[1]_tests.cmake")
-  include("/home/mogus/projects/signal-project/build/signal-tests[1]_tests.cmake")
-else()
-  add_test(signal-tests_NOT_BUILT signal-tests_NOT_BUILT)
-endif()
