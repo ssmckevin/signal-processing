@@ -1,0 +1,7 @@
+SignalGeneratorTest.GeneratesCorrectNumberOfSamples 8 0.000381269
+FilterTest.CalculatesAverage 6 0.000326261
+GenInterferenceTest.GeneratesCorrectNumberOfSamples 6 0.000286182
+GenNoiseTest.GeneratesCorrectNumberOfSamples 6 0.000271582
+CombineSignalsTest.GeneratesCorrectNumberOfSamples 6 0.000539433
+GenSignalFileTest.CreatesCorrectCSVFile 2 0.000963093
+---

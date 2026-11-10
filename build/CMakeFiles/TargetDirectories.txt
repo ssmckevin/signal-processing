@@ -1,0 +1,5 @@
+/home/mogus/projects/signal-project/build/CMakeFiles/rebuild_cache.dir
+/home/mogus/projects/signal-project/build/CMakeFiles/edit_cache.dir
+/home/mogus/projects/signal-project/build/CMakeFiles/test.dir
+/home/mogus/projects/signal-project/build/CMakeFiles/signal-tests.dir
+/home/mogus/projects/signal-project/build/CMakeFiles/signal-project.dir
